@@ -1,0 +1,15 @@
+{
+    //"cmake.buildArgs": [
+        //"-DCMAKE_TOOLCHAIN_FILE=C:/SysGCC/raspberry/arm-linux-gnueabihf.cmake"
+    //],
+    "cmake.configureArgs": [
+        "-DCMAKE_TOOLCHAIN_FILE=C:/SysGCC/raspberry/arm-linux-gnueabihf.cmake"
+    ],
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "*.v": "verilog",
+        "*.vh": "verilog",
+        "stdlib.h": "c",
+        "math.h": "c"
+    }
+}
